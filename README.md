@@ -10,38 +10,16 @@
 
 # 🚀 About Me
 
-```yaml
-name: Khalid Kanane
-located_in: Morocco
-current_focus:
-  [
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Full Stack Development",
-    "Data Science"
-  ]
+🎓 Education
+Computer Engineering Student
+TS Digital Development (Full Stack Web Development – Web & Mobile)
 
-education:
-  [
-    "Computer Engineering Student",
-    "TS Digital Development - Full Stack"
-  ]
-
-currently_learning:
-  [
-    "Deep Learning",
-    "Computer Vision",
-    "AI Agents",
-    "Advanced Backend Development"
-  ]
-
-goals_2026:
-  [
-    "Build real AI products",
-    "Contribute to open source",
-    "Become AI Engineer"
-  ]
-```
+💼 Skills & Technologies
+Programming Languages: Java, Python, JavaScript, C, SQL
+Frameworks: Laravel , React, JavaFX , Next JS
+Mobile: Android Studio, Firebase
+AI / Data Science: TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV
+Tools: Git, GitHub, Linux, VS Code
 
 ---
 
@@ -57,20 +35,7 @@ goals_2026:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=khalidkanane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
----
 
-# 🤖 AI & Data Science
-
-<div align="center">
-
-| Domain | Technologies |
-|---|---|
-| Machine Learning | Scikit-learn, Pandas, NumPy |
-| Computer Vision | OpenCV |
-| Data Visualization | Matplotlib, Seaborn |
-
-
-</div>
 
 ---
 
@@ -113,7 +78,7 @@ goals_2026:
 | 🍔 Food Management System | JavaFX desktop management app | JavaFX |
 | 🧠 Image Segmentation | Computer Vision mini-project | OpenCV |
 | 📱 Firebase Mobile App | Android app with Firebase backend | Java |
-| 🌐 Full Stack Platform | Modern web application | React + Spring |
+| 🌐 Full Stack Platform | Modern web application | React + Laravel |
 
 </div>
 
