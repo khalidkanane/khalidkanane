@@ -79,13 +79,11 @@ goals_2026:
 
 # 📊 GitHub Analytics
 
-<div align="center">
+
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khalidkanane&theme=tokyo-night)](https://github.com/khalidkanane)
 
 </div>
 
@@ -103,15 +101,8 @@ goals_2026:
 
 </div>
 
----
 
-# 🐍 Contribution Snake
 
-<div align="center">
-
-![snake gif](https://github.com/khalidkanane/khalidkanane/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
