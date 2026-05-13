@@ -8,18 +8,22 @@
 
 ---
 
-# 🚀 About Me
+Hi 👋, I'm Khalid Kanane
 
-🎓 Education
-Computer Engineering Student
-TS Digital Development (Full Stack Web Development – Web & Mobile)
+💻 Full Stack Developer & AI Enthusiast  
+🎓 Computer Engineering Student  
+🤖 Interested in AI, Data Science & Machine Learning  
+🚀 Building intelligent and scalable applications
 
-💼 Skills & Technologies
-Programming Languages: Java, Python, JavaScript, C, SQL
-Frameworks: Laravel , React, JavaFX , Next JS
-Mobile: Android Studio, Firebase
-AI / Data Science: TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV
-Tools: Git, GitHub, Linux, VS Code
+
+---
+## 🚀 About Me
+
+- 🎓 Student in Computer Engineering
+- 🌱 Currently learning Machine Learning & Data Science
+- 💡 Passionate about AI Agents and Full Stack Development
+- 📱 Building Java, JavaFX and Web applications
+- 🔥 Goal: Become an AI Expert
 
 ---
 
