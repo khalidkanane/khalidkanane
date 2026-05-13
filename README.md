@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**khalidkanane/khalidkanane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi 👋, I'm Khalid Kanane
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Full Stack Developer & AI Enthusiast  
+🎓 Computer Engineering Student  
+🤖 Interested in AI, Data Science & Machine Learning  
+🚀 Building intelligent and scalable applications
+
+
+## 🚀 About Me
+
+- 🎓 Student in Computer Engineering
+- 🌱 Currently learning Machine Learning & Data Science
+- 💡 Passionate about AI Agents and Full Stack Development
+- 📱 Building Java, JavaFX and Web applications
+- 🔥 Goal: Become an AI Expert
+
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- Python
+- JavaScript
+- TypeScript
+- SQL
+- C
+- PHP
+
+### Frameworks & Tools
+- Spring Boot
+- JavaFX
+- Firebase
+- Git & GitHub
+- Android Studio
+- MySQL
+- React / NextJS
+- Node JS
+- Laravel
+
+### AI & Data Science
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
