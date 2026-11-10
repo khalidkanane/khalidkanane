@@ -58,21 +58,13 @@ Hi 👋, I'm Khalid Kanane
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=khalidkanane&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-
-
 ---
 
-# 📊 GitHub Analytics
-
-
+# 💻 Most Used Languages
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khalidkanane&theme=tokyo-night)](https://github.com/khalidkanane)
-
-</div>
-
-
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=khalidkanane&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Most Used Languages" />
 
 </div>
 
@@ -85,9 +77,6 @@ Hi 👋, I'm Khalid Kanane
 <img src="https://streak-stats.demolab.com?user=khalidkanane&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </div>
-
-
-
 
 ---
 
@@ -107,17 +96,6 @@ Hi 👋, I'm Khalid Kanane
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=khalidkanane&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=khalidkanane&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -131,6 +109,3 @@ Hi 👋, I'm Khalid Kanane
 ### ⚡ Building intelligent systems with AI and software engineering ⚡
 
 </div>
-
-
-
